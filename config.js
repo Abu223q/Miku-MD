@@ -15,7 +15,7 @@ global.packname = "Miku bot"
 global.author = "By: weeb"
 global.OwnerName = "weeb"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.SupportGroupLink = "https://chat.whatsapp.com/JuqN0jTH0RAGZYJt61tYYt"
 global.sessionName = "session"
 
 
